@@ -6,9 +6,10 @@
 
 ### Technologies
 
-Development: Artificial intelligence
-Foundation: HTML, CSS
-Programming language: JavaScript
+Development: Artificial intelligence driven, Visual Studio Code  
+Markup: HTML, CSS  
+Programming language: JavaScript  
+Formatting: “.editorconfig”, “.vscode/…”, Prettier
 
 ## State
 
